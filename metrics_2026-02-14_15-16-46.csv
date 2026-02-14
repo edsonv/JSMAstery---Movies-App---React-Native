@@ -1,0 +1,8 @@
+$id,$permissions,$createdAt,$updatedAt,search_term,count,poster_url,movie_id,title
+686a95bc0039b87e774c,,2025-07-06T15:26:56.843+00:00,2025-07-06T15:26:56.843+00:00,Avatar,1,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg,348,Alien
+686a9c860000bafc083d,,2025-07-06T15:55:54.089+00:00,2025-07-06T15:55:54.089+00:00,ironman,1,https://image.tmdb.org/t/p/w500/pnLopkBeVGd0v77gpTNdPqQESUs.jpg,900901,Ironman
+686a9c89001dcd9f2e46,,2025-07-06T15:55:57.555+00:00,2025-07-06T15:55:57.555+00:00,Iron ,1,https://image.tmdb.org/t/p/w500null,1158328,IRON
+686a9c8a002824021b37,,2025-07-06T15:55:58.722+00:00,2025-07-06T15:56:07.903+00:00,Iron man,3,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg,1726,Iron Man
+686a9c99001cdcfcfb2b,,2025-07-06T15:56:13.546+00:00,2025-07-06T15:56:13.546+00:00,avenge,1,https://image.tmdb.org/t/p/w500/eKdvNCKtiuUFvwCXtpwISw8jqZ5.jpg,40081,Crippled Avengers
+686a9c9a0022fdc94b19,,2025-07-06T15:56:14.646+00:00,2025-07-06T15:56:23.866+00:00,avengers,6,https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg,299536,Avengers: Infinity War
+686c0b3500354ee4150a,,2025-07-07T18:00:25.560+00:00,2025-07-07T18:00:27.445+00:00,gladiator,2,https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg,98,Gladiator
